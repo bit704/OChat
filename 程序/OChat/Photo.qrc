@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>photo/color.png</file>
+        <file>photo/white.png</file>
+        <file>photo/close.png</file>
+        <file>photo/min.png</file>
+        <file>photo/login.png</file>
+        <file>photo/icon.png</file>
+        <file>photo/1.png</file>
+        <file>photo/2.png</file>
+        <file>photo/3.png</file>
+        <file>photo/4.png</file>
+        <file>photo/5.png</file>
+        <file>photo/registerbg.png</file>
+        <file>photo/close_blue.png</file>
+        <file>photo/min_close.png</file>
+        <file>photo/color_login.png</file>
+    </qresource>
+</RCC>
